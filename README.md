@@ -1,4 +1,4 @@
-# LSTM-practice
+# Tensorflow LSTM-practice
 
 Tensorflow LSTM practice
 
