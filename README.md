@@ -23,9 +23,9 @@ result:
 
 ![image](https://github.com/benbenfai/LSTM-stock-price-prediction/blob/main/unknown.png)
 
-predict result in range around 5% or below
+Predict result in range around 5% error or below
 
-It is not enough to approach an accurate result, yet may show an upward and downward trend.
+It is not enough to get an accurate result, yet may show an upward and downward trend.
 
 There is a example result below.
 
