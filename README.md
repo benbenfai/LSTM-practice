@@ -14,6 +14,19 @@ For example, you want predication the next price based on past 30 day then set 3
 
 the model add tensorflow tuner that it will try to find the best variable.
 
+Model example:
+
+stock:tsla
+day interval:60
+
+result:
+
+![image](https://github.com/benbenfai/LSTM-stock-price-prediction/blob/main/unknown.png)
+
+predict result in range around 5% or below
+
+It is not enough to approach an accurate result, yet may show an upward and downward trend.
+
 There is a example result below.
 
 ![image](https://github.com/benbenfai/LSTM-practice/blob/main/result.png)
