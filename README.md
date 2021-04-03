@@ -9,8 +9,11 @@ there are maltplot and tensorboard  visualising the result and value.
 
 change stock by upload another csv file in your google drive
 
-Change epoch size for different stock, as different data size
+Change interval as you like.
+For example, you want predication the next price based on past 30 day then set 30.
 
-There is underfitting problem for this model
+the model add tensorflow tuner that it will try to find the best variable.
+
+There is a example result below.
 
 ![image](https://github.com/benbenfai/LSTM-practice/blob/main/result.png)
