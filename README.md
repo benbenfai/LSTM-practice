@@ -22,6 +22,8 @@ day interval:60
 
 result:
 
+notice: There is a problem at the denormalization part, the result data is a bit different of the real.
+
 ![image](https://github.com/benbenfai/LSTM-stock-price-prediction/blob/main/unknown.png)
 
 Predict result in range around 2-3% error and some overfitting problem
