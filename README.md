@@ -24,7 +24,7 @@ result:
 
 ![image](https://github.com/benbenfai/LSTM-stock-price-prediction/blob/main/unknown.png)
 
-Predict result in range around 2-3% error and some overfitting problem
+Predict result in range around 2-3% error
 
 It is not enough to get an accurate result, yet may show an upward and downward trend.
 
